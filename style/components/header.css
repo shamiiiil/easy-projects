@@ -1,0 +1,35 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.header a {
+    margin-left: 30px;
+    text-transform: uppercase;
+    color: #000;
+    transition: .4s;
+}
+
+.header p {
+    font-size: 14px;
+    color: #000;
+}
+
+.header-links {
+    display: flex;
+    align-items: center;
+    margin-left: 30px;
+}
+
+.header a:hover {
+    color: #bac34e;
+}
+
+@media(max-width: 990px){
+    .header{
+        display: none;
+    }
+}

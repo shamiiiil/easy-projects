@@ -1,0 +1,11 @@
+.footer1{
+    display: flex;
+    box-sizing: border-box;
+    padding: 35px 0px;
+    border-top: 1px solid #aaa;
+    justify-content: center;
+    margin-bottom: 70px;
+}
+.footer1 p a{
+    color: #bac34e;
+}

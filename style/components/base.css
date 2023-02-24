@@ -1,0 +1,25 @@
+body {
+    background-image: url("../../img/background-image.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top center;
+    background-color: #FEF3ED;
+    padding: 0 5%;
+}
+
+/* .body {
+    background-image: url("../../img/background-image.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: bottom center;
+} */
+
+
+
+.container {
+    padding: 0 5%;
+}
+
+.section {
+    background-color: #fff;
+}
